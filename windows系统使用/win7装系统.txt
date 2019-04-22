@@ -4,3 +4,7 @@ U盘装系统
 (2)下载win7系统
 GHOST WIN7系统，下载来的格式一般是
 ISO或GHO，然后把他放到U盘里的GHO文件夹。
+(3)进入BIOS(一般是F12),选择启动设备(please select boot device)
+1)CD/DVD...		光盘启动
+2)STAT...		硬盘启动
+3)USB: ...		U盘启动
