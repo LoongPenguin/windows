@@ -1,3 +1,6 @@
 U盘装系统
 网址：https://www.upandashi.com/win7/
 (1)U盘(大于4G),U盘装机大师U盘启动盘制作工具,制作成U盘启动盘
+(2)下载win7系统
+GHOST WIN7系统，下载来的格式一般是
+ISO或GHO，然后把他放到U盘里的GHO文件夹。
