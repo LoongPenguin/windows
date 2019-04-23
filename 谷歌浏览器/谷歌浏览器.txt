@@ -1,2 +1,4 @@
 1. 谷歌修改字体 
 chrome://settings/fonts
+
+2. 谷歌浏览器卸载重装：必须在注册表中删掉：Google相关的内容
