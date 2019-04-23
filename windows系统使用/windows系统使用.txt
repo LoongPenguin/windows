@@ -6,3 +6,5 @@
 (1)host文件(访问谷歌)：C:\Windows\System32\drivers\etc\hosts
 
 4. windows下强制删除文件：直接在资源管理器中杀进程
+
+5. u盘防病毒：新建autorun.inf,并设置为只读
