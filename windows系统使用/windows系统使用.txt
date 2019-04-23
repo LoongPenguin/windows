@@ -1,3 +1,5 @@
 1. 键盘能用,鼠标不能用,使用table键
 
 2. windows一定要设置成管理员权限
+
+3. windows驱动目录：C:\Windows\System32\drivers
