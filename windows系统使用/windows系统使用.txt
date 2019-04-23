@@ -8,3 +8,13 @@
 4. windows下强制删除文件：直接在资源管理器中杀进程
 
 5. u盘防病毒：新建autorun.inf,并设置为只读
+
+6. win7自动关机
+(1)https://jingyan.baidu.com/article/22fe7ced2f761c3002617f2d.html
+(2)步骤
+windows键 + R
+1)win7关机是以秒为单位的(1小时3600秒)
+2)设置1小时后关机：shutdown -s -t 3600
+3)shutdown -a可以取消设置的定时关机。
+4)设置固定的时间关机：
+at 12:30 shutdown 可以设定在十二点半自动关机
