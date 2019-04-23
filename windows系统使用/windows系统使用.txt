@@ -3,3 +3,4 @@
 2. windows一定要设置成管理员权限
 
 3. windows驱动目录：C:\Windows\System32\drivers
+(1)host文件(访问谷歌)：C:\Windows\System32\drivers\etc\hosts
